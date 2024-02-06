@@ -1,0 +1,114 @@
+.header{width: 100%;
+    /* background-color: antiquewhite; */
+
+}
+.empty{
+    width: 30%;
+    height: 200px;
+    float: right;
+    background-color: rgb(124, 156, 92);
+    
+}
+.lefth{
+    display: flex;
+}
+.righth{
+    margin-left: 25px;
+}
+.nav{
+    display: flex;
+    background-color: aquamarine;
+}
+.nav div{    border-right: 3px solid rgb(228, 214, 214);
+    padding-right: 10px;
+    padding: 10px;
+    border: 1px solid rgb(228, 228, 86);
+    font-weight: 900;
+
+}
+.m img{
+    width: 100%;
+    height: 200px;
+}
+.afternav{
+    width: 70%;
+    background-color:#F4F4F4 ;
+
+}
+.mleft{
+    margin-left: 20px;
+    float: left;
+}
+
+
+.about div h1{
+    font-size: 30px;
+}
+.title p{
+    font-size: 20px;
+    
+}
+.iteeasia h1{
+    font-weight: 200;
+    
+}
+.iteebd h1{
+    font-weight: 200;
+}
+.bangla{
+    font-weight: 800;
+}
+button{
+    background-color: #009A8C;
+    padding: 15px;
+    cursor: pointer;
+}
+.nav2{
+    background-color: #009A8C;
+    width: 20%;
+    float: right;
+}
+.srow{
+    width: 100%;
+    margin-top: 30px;
+    
+}
+.srow .table{
+    width: 100%;
+}
+.table{ background-image: url('./kk.png');
+}
+.table .tleft{ width: 45%;
+    float: left;
+    height: 200px;
+    overflow-y: scroll;
+}
+.table .tleft ul li{   
+
+}
+.tright{
+    float: right;
+    width: 50%;}
+.table .tright ul li{
+    width: 30%;
+    float: right;
+}
+.footer{
+    background-color: black;
+    padding: 15px;
+    display: flex;
+}
+.logoimg{
+    display: flex;
+    padding: 20px;
+    text-align: center;
+}
+.logoimg .logop{
+}
+h1{
+    color: rgba(0, 0, 0, 0.63)
+
+}
+.footer .a,.b{
+    color: #fff;
+}
